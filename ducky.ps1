@@ -1,1 +1,1 @@
-echo hi
+start notepad.exe
