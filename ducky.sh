@@ -1,1 +1,1 @@
-
+open -na Calculator
